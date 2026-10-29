@@ -1,0 +1,14 @@
+--- ITERACIONES (TRAPECIO COMPUESTO) ---
+n = 2 | Integral = 0.375
+n = 4 | Integral = 0.34375 | Error = 0.03125
+n = 8 | Integral = 0.3359375 | Error = 0.0078125
+n = 16 | Integral = 0.333984375 | Error = 0.001953125
+n = 32 | Integral = 0.33349609375 | Error = 4.8828125E-4
+n = 64 | Integral = 0.3333740234375 | Error = 1.220703125E-4
+n = 128 | Integral = 0.333343505859375 | Error = 3.0517578125E-5
+n = 256 | Integral = 0.33333587646484375 | Error = 7.62939453125E-6
+Resultado Trapecio: 0.33333587646484375
+--- ITERACIONES (SIMPSON COMPUESTO) ---
+n = 2 | Integral = 0.3333333333333333
+n = 4 | Integral = 0.3333333333333333 | Error = 0.0
+Resultado Simpson: 0.3333333333333333
